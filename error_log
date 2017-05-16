@@ -1,0 +1,141 @@
+[04-Aug-2015 10:41:54 UTC] email start
+[04-Aug-2015 10:41:55 UTC] email sent
+[04-Aug-2015 11:40:20 UTC] email start
+[04-Aug-2015 11:40:21 UTC] email sent
+[04-Aug-2015 11:49:40 UTC] email start
+[04-Aug-2015 11:49:41 UTC] email sent
+[04-Aug-2015 11:51:48 UTC] email start
+[04-Aug-2015 11:51:48 UTC] email sent
+[04-Aug-2015 13:36:36 UTC] email start
+[04-Aug-2015 13:36:37 UTC] email sent
+[05-Aug-2015 10:42:14 UTC] email start
+[05-Aug-2015 10:42:14 UTC] email sent
+[05-Aug-2015 10:42:27 UTC] email start
+[05-Aug-2015 10:42:28 UTC] email sent
+[06-Aug-2015 09:18:56 UTC] <p>You did not select a file to upload.</p>
+[06-Aug-2015 13:25:36 UTC] email start
+[06-Aug-2015 13:25:37 UTC] email sent
+[06-Aug-2015 13:27:56 UTC] <p>You did not select a file to upload.</p>
+[06-Aug-2015 13:27:56 UTC] email start
+[06-Aug-2015 13:27:57 UTC] email sent
+[06-Aug-2015 13:31:33 UTC] email start
+[06-Aug-2015 13:31:33 UTC] email sent
+[06-Aug-2015 13:32:24 UTC] email start
+[06-Aug-2015 13:32:24 UTC] email sent
+[06-Aug-2015 15:54:12 UTC] PHP Fatal error:  Call to a member function item() on a non-object in /home/echoriac/public_html/propertyground.com/member/application/controllers/Message.php on line 88
+[07-Aug-2015 10:21:20 UTC] create folder
+[07-Aug-2015 10:21:20 UTC] assets/jobs/635
+[07-Aug-2015 10:21:20 UTC] creating
+[07-Aug-2015 10:21:20 UTC] email start
+[07-Aug-2015 10:21:20 UTC] email sent
+[07-Aug-2015 11:42:42 UTC] email start
+[07-Aug-2015 11:42:42 UTC] email sent
+[07-Aug-2015 11:45:51 UTC] PHP Fatal error:  Call to a member function item() on a non-object in /home/echoriac/public_html/propertyground.com/member/application/controllers/Message.php on line 88
+[07-Aug-2015 11:45:55 UTC] email start
+[07-Aug-2015 11:45:56 UTC] email sent
+[07-Aug-2015 11:46:59 UTC] PHP Fatal error:  Call to a member function item() on a non-object in /home/echoriac/public_html/propertyground.com/member/application/controllers/Message.php on line 88
+[07-Aug-2015 11:52:02 UTC] email start
+[07-Aug-2015 11:52:03 UTC] email sent
+[07-Aug-2015 11:53:29 UTC] email start
+[07-Aug-2015 11:53:29 UTC] email sent
+[10-Aug-2015 11:28:04 UTC] email start
+[10-Aug-2015 11:28:05 UTC] email sent
+[11-Aug-2015 08:53:06 UTC] email start
+[11-Aug-2015 08:53:07 UTC] email sent
+[11-Aug-2015 11:45:05 UTC] email start
+[11-Aug-2015 11:45:05 UTC] email sent
+[11-Aug-2015 12:38:45 UTC] email start
+[11-Aug-2015 12:38:46 UTC] email sent
+[11-Aug-2015 13:13:32 UTC] email start
+[11-Aug-2015 13:13:33 UTC] email sent
+[12-Aug-2015 09:08:48 UTC] email start
+[12-Aug-2015 09:08:48 UTC] email sent
+[12-Aug-2015 10:30:03 UTC] email start
+[12-Aug-2015 10:30:03 UTC] email sent
+[12-Aug-2015 10:30:27 UTC] email start
+[12-Aug-2015 10:30:29 UTC] email sent
+[12-Aug-2015 10:35:56 UTC] email start
+[12-Aug-2015 10:35:57 UTC] email sent
+[12-Aug-2015 10:38:47 UTC] email start
+[12-Aug-2015 10:38:47 UTC] email sent
+[12-Aug-2015 10:39:08 UTC] email start
+[12-Aug-2015 10:39:09 UTC] email sent
+[12-Aug-2015 10:40:05 UTC] email start
+[12-Aug-2015 10:40:05 UTC] email sent
+[12-Aug-2015 10:47:06 UTC] email start
+[12-Aug-2015 10:47:06 UTC] email sent
+[13-Aug-2015 09:05:37 UTC] <p>The upload path does not appear to be valid.</p>
+[13-Aug-2015 09:08:52 UTC] <p>The upload path does not appear to be valid.</p>
+[13-Aug-2015 10:15:40 UTC] <p>The upload path does not appear to be valid.</p>
+[13-Aug-2015 10:21:15 UTC] <p>The upload path does not appear to be valid.</p>
+[13-Aug-2015 10:54:03 UTC] <p>The upload path does not appear to be valid.</p>
+[13-Aug-2015 12:19:29 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 17456 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Image_lib.php on line 1449
+[13-Aug-2015 12:19:40 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 19712 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Image_lib.php on line 1449
+[13-Aug-2015 12:19:40 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 18572 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Image_lib.php on line 1449
+[13-Aug-2015 12:20:00 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 19712 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Image_lib.php on line 1449
+[13-Aug-2015 12:20:05 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 19684 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Image_lib.php on line 1449
+[13-Aug-2015 12:20:13 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 19328 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Image_lib.php on line 1449
+[13-Aug-2015 12:20:15 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 4767 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Image_lib.php on line 1449
+[13-Aug-2015 12:20:30 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 4808 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Image_lib.php on line 1449
+[13-Aug-2015 12:20:33 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 19712 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Image_lib.php on line 1449
+[13-Aug-2015 12:20:35 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 4776 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Image_lib.php on line 1449
+[13-Aug-2015 12:20:55 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 17996 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Image_lib.php on line 1449
+[13-Aug-2015 12:20:59 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 19460 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Image_lib.php on line 1449
+[13-Aug-2015 12:21:04 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 19712 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Image_lib.php on line 1449
+[13-Aug-2015 12:21:30 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 19268 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Image_lib.php on line 1449
+[13-Aug-2015 12:21:30 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 19712 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Image_lib.php on line 1449
+[13-Aug-2015 12:21:31 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 19712 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Image_lib.php on line 1449
+[13-Aug-2015 12:21:36 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 19712 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Image_lib.php on line 1449
+[13-Aug-2015 12:21:37 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 19712 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Image_lib.php on line 1449
+[13-Aug-2015 12:30:31 UTC] email start
+[13-Aug-2015 12:30:31 UTC] email sent
+[13-Aug-2015 12:32:23 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 31302787 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 263
+[13-Aug-2015 13:32:17 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 31302787 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 263
+[13-Aug-2015 13:32:21 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 31302787 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 263
+[13-Aug-2015 13:32:24 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 31302787 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 263
+[13-Aug-2015 13:34:00 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 31302787 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 263
+[13-Aug-2015 13:34:03 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 31302787 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 263
+[13-Aug-2015 13:34:06 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 31302787 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 263
+[13-Aug-2015 13:34:34 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 31302787 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 263
+[13-Aug-2015 13:34:45 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 31302787 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 263
+[13-Aug-2015 14:03:59 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[13-Aug-2015 14:10:42 UTC] email start
+[13-Aug-2015 14:10:42 UTC] email sent
+[13-Aug-2015 17:30:30 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[13-Aug-2015 17:30:50 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[13-Aug-2015 17:57:18 UTC] email start
+[13-Aug-2015 17:57:19 UTC] email sent
+[14-Aug-2015 08:43:37 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 08:43:39 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 08:43:55 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 08:45:15 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 08:45:27 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 08:45:39 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 08:47:00 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 08:47:03 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 08:47:07 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 09:43:55 UTC] <p>You did not select a file to upload.</p>
+[14-Aug-2015 09:51:22 UTC] email start
+[14-Aug-2015 09:51:28 UTC] email sent
+[14-Aug-2015 10:17:05 UTC] email start
+[14-Aug-2015 10:17:10 UTC] email sent
+[14-Aug-2015 10:17:14 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 10:17:37 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 10:17:41 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 10:18:05 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 10:18:44 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 10:18:55 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 10:20:40 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 10:20:43 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 10:20:47 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 10:21:27 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 10:21:33 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 10:21:47 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 10:23:19 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 10:25:07 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 10:25:13 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 10:40:43 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 11:06:44 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 11:09:04 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 12:11:41 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401
+[14-Aug-2015 12:35:46 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 38808012 bytes) in /home/echoriac/public_html/propertyground.com/member/system/libraries/Zip.php on line 401

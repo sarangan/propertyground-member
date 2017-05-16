@@ -1,0 +1,574 @@
+[29-May-2015 16:30:53 UTC] PHP Fatal error:  Call to undefined function createFolder() in /home/echoriac/public_html/propertyground.com/member/application/controllers/Jobs.php on line 230
+[29-May-2015 16:34:23 UTC] create folder
+[29-May-2015 16:34:23 UTC] assets/jobs/1
+[29-May-2015 16:34:23 UTC] creating
+[29-May-2015 16:34:23 UTC] email start
+[29-May-2015 16:34:23 UTC] email sent
+[29-May-2015 16:46:10 UTC] create folder
+[29-May-2015 16:46:10 UTC] assets/jobs/1
+[29-May-2015 16:46:10 UTC] creating
+[29-May-2015 17:20:06 UTC] 3
+[29-May-2015 17:35:34 UTC] reutning null
+[29-May-2015 17:35:34 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/echoriac/public_html/propertyground.com/member/application/controllers/admin/Invoice.php on line 115
+[29-May-2015 17:37:11 UTC] 2
+[29-May-2015 17:41:25 UTC] 3
+[31-May-2015 07:55:59 UTC] fine
+[31-May-2015 08:06:21 UTC] 3
+[31-May-2015 08:11:36 UTC] fine
+[31-May-2015 08:12:51 UTC] fine
+[31-May-2015 08:14:45 UTC] fine
+[01-Jun-2015 10:43:16 UTC] fine
+[01-Jun-2015 14:11:58 UTC] 1
+[02-Jun-2015 08:21:50 UTC] 3
+[02-Jun-2015 16:21:06 UTC] 3
+[03-Jun-2015 11:27:55 UTC] <p>You did not select a file to upload.</p>
+[03-Jun-2015 12:03:56 UTC] <p>You did not select a file to upload.</p>
+[03-Jun-2015 12:22:50 UTC] 1
+[03-Jun-2015 12:22:50 UTC] 2
+[03-Jun-2015 12:22:50 UTC] 3
+[04-Jun-2015 12:07:19 UTC] fine
+[04-Jun-2015 12:07:25 UTC] fine
+[04-Jun-2015 12:19:46 UTC] create folder
+[04-Jun-2015 12:19:46 UTC] assets/jobs/2
+[04-Jun-2015 12:19:46 UTC] creating
+[04-Jun-2015 12:27:35 UTC] create folder
+[04-Jun-2015 12:27:35 UTC] assets/jobs/3
+[04-Jun-2015 12:27:35 UTC] creating
+[04-Jun-2015 12:29:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/echoriac/public_html/propertyground.com/member/application/views/my_jobs.php on line 116
+[04-Jun-2015 12:34:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/echoriac/public_html/propertyground.com/member/application/controllers/Jobs.php on line 123
+[08-Jun-2015 14:43:21 UTC] fine
+[08-Jun-2015 15:00:34 UTC] create folder
+[08-Jun-2015 15:00:34 UTC] assets/jobs/4
+[08-Jun-2015 15:00:34 UTC] creating
+[08-Jun-2015 15:06:19 UTC] 1
+[08-Jun-2015 15:06:19 UTC] 2
+[08-Jun-2015 15:06:19 UTC] 3
+[08-Jun-2015 15:06:51 UTC] 1
+[08-Jun-2015 15:06:51 UTC] 2
+[08-Jun-2015 15:06:51 UTC] 3
+[09-Jun-2015 16:10:19 UTC] 3
+[09-Jun-2015 16:10:22 UTC] 3
+[10-Jun-2015 12:27:22 UTC] 2
+[10-Jun-2015 12:27:56 UTC] 2
+[10-Jun-2015 12:28:02 UTC] 1
+[10-Jun-2015 12:28:11 UTC] 1
+[10-Jun-2015 12:28:35 UTC] 1
+[10-Jun-2015 12:33:43 UTC] 2
+[10-Jun-2015 13:16:25 UTC] 2
+[10-Jun-2015 13:16:44 UTC] 2
+[10-Jun-2015 13:21:51 UTC] 1
+[10-Jun-2015 13:22:16 UTC] 1
+[10-Jun-2015 13:27:46 UTC] 1
+[10-Jun-2015 13:27:59 UTC] 3
+[10-Jun-2015 13:28:04 UTC] 3
+[10-Jun-2015 13:28:17 UTC] 1
+[10-Jun-2015 13:28:19 UTC] 3
+[10-Jun-2015 13:28:31 UTC] 3
+[10-Jun-2015 13:28:41 UTC] 4
+[10-Jun-2015 13:28:43 UTC] 4
+[10-Jun-2015 13:28:45 UTC] 4
+[10-Jun-2015 13:28:49 UTC] 4
+[10-Jun-2015 13:31:06 UTC] 4
+[10-Jun-2015 13:32:48 UTC] 1
+[10-Jun-2015 13:33:21 UTC] 1
+[10-Jun-2015 13:34:12 UTC] 1
+[10-Jun-2015 13:35:02 UTC] 4
+[10-Jun-2015 13:37:50 UTC] 4
+[10-Jun-2015 14:04:41 UTC] 4
+[10-Jun-2015 14:04:44 UTC] 4
+[10-Jun-2015 14:16:10 UTC] 1
+[10-Jun-2015 16:24:13 UTC] 1
+[11-Jun-2015 05:52:22 UTC] 4
+[11-Jun-2015 05:52:27 UTC] 4
+[11-Jun-2015 05:52:29 UTC] 4
+[11-Jun-2015 05:54:54 UTC] 4
+[11-Jun-2015 05:55:21 UTC] fine
+[11-Jun-2015 05:56:52 UTC] fine
+[11-Jun-2015 05:57:05 UTC] 4
+[11-Jun-2015 05:57:06 UTC] 4
+[12-Jun-2015 11:05:30 UTC] 1
+[12-Jun-2015 11:10:31 UTC] fine
+[12-Jun-2015 11:11:32 UTC] 1
+[12-Jun-2015 11:11:45 UTC] 1
+[12-Jun-2015 11:11:45 UTC] 2
+[12-Jun-2015 11:11:45 UTC] 3
+[12-Jun-2015 11:11:52 UTC] 1
+[12-Jun-2015 11:11:52 UTC] 2
+[12-Jun-2015 11:11:52 UTC] 3
+[12-Jun-2015 11:13:08 UTC] 1
+[12-Jun-2015 11:14:01 UTC] 1
+[12-Jun-2015 11:16:30 UTC] 1
+[12-Jun-2015 11:21:32 UTC] 1
+[12-Jun-2015 11:21:32 UTC] 2
+[12-Jun-2015 11:21:32 UTC] 3
+[12-Jun-2015 11:21:35 UTC] fine
+[12-Jun-2015 11:21:35 UTC] 1
+[12-Jun-2015 11:21:35 UTC] 2
+[12-Jun-2015 11:21:35 UTC] 3
+[12-Jun-2015 11:25:44 UTC] fine
+[12-Jun-2015 11:46:56 UTC] fine
+[12-Jun-2015 12:29:20 UTC] fine
+[12-Jun-2015 12:47:56 UTC] fine
+[13-Jun-2015 13:30:34 UTC] create folder
+[13-Jun-2015 13:30:34 UTC] assets/jobs/514
+[13-Jun-2015 13:30:34 UTC] creating
+[13-Jun-2015 13:33:00 UTC] create folder
+[13-Jun-2015 13:33:00 UTC] assets/jobs/515
+[13-Jun-2015 13:33:00 UTC] creating
+[13-Jun-2015 13:37:00 UTC] create folder
+[13-Jun-2015 13:37:00 UTC] assets/jobs/516
+[13-Jun-2015 13:37:00 UTC] creating
+[13-Jun-2015 13:38:30 UTC] create folder
+[13-Jun-2015 13:38:30 UTC] assets/jobs/517
+[13-Jun-2015 13:38:30 UTC] creating
+[13-Jun-2015 13:40:52 UTC] create folder
+[13-Jun-2015 13:40:52 UTC] assets/jobs/518
+[13-Jun-2015 13:40:52 UTC] creating
+[13-Jun-2015 13:43:30 UTC] create folder
+[13-Jun-2015 13:43:30 UTC] assets/jobs/519
+[13-Jun-2015 13:43:30 UTC] creating
+[13-Jun-2015 13:46:10 UTC] create folder
+[13-Jun-2015 13:46:10 UTC] assets/jobs/520
+[13-Jun-2015 13:46:10 UTC] creating
+[13-Jun-2015 13:47:30 UTC] create folder
+[13-Jun-2015 13:47:30 UTC] assets/jobs/521
+[13-Jun-2015 13:47:30 UTC] creating
+[13-Jun-2015 13:55:16 UTC] create folder
+[13-Jun-2015 13:55:16 UTC] assets/jobs/522
+[13-Jun-2015 13:55:16 UTC] creating
+[13-Jun-2015 14:00:16 UTC] create folder
+[13-Jun-2015 14:00:16 UTC] assets/jobs/523
+[13-Jun-2015 14:00:16 UTC] creating
+[13-Jun-2015 14:02:17 UTC] create folder
+[13-Jun-2015 14:02:17 UTC] assets/jobs/524
+[13-Jun-2015 14:02:17 UTC] creating
+[13-Jun-2015 14:03:54 UTC] create folder
+[13-Jun-2015 14:03:54 UTC] assets/jobs/525
+[13-Jun-2015 14:03:54 UTC] creating
+[13-Jun-2015 14:07:16 UTC] create folder
+[13-Jun-2015 14:07:16 UTC] assets/jobs/526
+[13-Jun-2015 14:07:16 UTC] creating
+[13-Jun-2015 14:09:44 UTC] create folder
+[13-Jun-2015 14:09:44 UTC] assets/jobs/527
+[13-Jun-2015 14:09:44 UTC] creating
+[13-Jun-2015 14:10:55 UTC] create folder
+[13-Jun-2015 14:10:55 UTC] assets/jobs/528
+[13-Jun-2015 14:10:55 UTC] creating
+[13-Jun-2015 14:13:07 UTC] create folder
+[13-Jun-2015 14:13:07 UTC] assets/jobs/529
+[13-Jun-2015 14:13:07 UTC] creating
+[13-Jun-2015 14:14:04 UTC] create folder
+[13-Jun-2015 14:14:04 UTC] assets/jobs/530
+[13-Jun-2015 14:14:04 UTC] creating
+[13-Jun-2015 14:15:39 UTC] create folder
+[13-Jun-2015 14:15:39 UTC] assets/jobs/531
+[13-Jun-2015 14:15:39 UTC] creating
+[13-Jun-2015 14:32:26 UTC] create folder
+[13-Jun-2015 14:32:26 UTC] assets/jobs/532
+[13-Jun-2015 14:32:26 UTC] creating
+[13-Jun-2015 14:34:42 UTC] create folder
+[13-Jun-2015 14:34:42 UTC] assets/jobs/533
+[13-Jun-2015 14:34:42 UTC] creating
+[13-Jun-2015 14:37:02 UTC] create folder
+[13-Jun-2015 14:37:02 UTC] assets/jobs/534
+[13-Jun-2015 14:37:02 UTC] creating
+[13-Jun-2015 14:38:53 UTC] create folder
+[13-Jun-2015 14:38:53 UTC] assets/jobs/535
+[13-Jun-2015 14:38:53 UTC] creating
+[13-Jun-2015 14:55:12 UTC] create folder
+[13-Jun-2015 14:55:12 UTC] assets/jobs/536
+[13-Jun-2015 14:55:12 UTC] creating
+[13-Jun-2015 14:56:08 UTC] create folder
+[13-Jun-2015 14:56:08 UTC] assets/jobs/537
+[13-Jun-2015 14:56:08 UTC] creating
+[13-Jun-2015 14:58:14 UTC] create folder
+[13-Jun-2015 14:58:14 UTC] assets/jobs/538
+[13-Jun-2015 14:58:14 UTC] creating
+[13-Jun-2015 15:12:49 UTC] create folder
+[13-Jun-2015 15:12:49 UTC] assets/jobs/539
+[13-Jun-2015 15:12:49 UTC] creating
+[13-Jun-2015 15:14:35 UTC] create folder
+[13-Jun-2015 15:14:35 UTC] assets/jobs/540
+[13-Jun-2015 15:14:35 UTC] creating
+[13-Jun-2015 15:15:34 UTC] create folder
+[13-Jun-2015 15:15:34 UTC] assets/jobs/541
+[13-Jun-2015 15:15:34 UTC] creating
+[13-Jun-2015 15:16:06 UTC] create folder
+[13-Jun-2015 15:16:06 UTC] assets/jobs/542
+[13-Jun-2015 15:16:06 UTC] creating
+[13-Jun-2015 15:18:40 UTC] 1
+[13-Jun-2015 15:19:20 UTC] create folder
+[13-Jun-2015 15:19:20 UTC] assets/jobs/543
+[13-Jun-2015 15:19:20 UTC] creating
+[13-Jun-2015 15:19:39 UTC] 1
+[13-Jun-2015 15:19:45 UTC] 1
+[13-Jun-2015 15:50:42 UTC] create folder
+[13-Jun-2015 15:50:42 UTC] assets/jobs/544
+[13-Jun-2015 15:50:42 UTC] creating
+[13-Jun-2015 15:55:42 UTC] create folder
+[13-Jun-2015 15:55:42 UTC] assets/jobs/545
+[13-Jun-2015 15:55:42 UTC] creating
+[13-Jun-2015 15:58:57 UTC] create folder
+[13-Jun-2015 15:58:57 UTC] assets/jobs/546
+[13-Jun-2015 15:58:57 UTC] creating
+[13-Jun-2015 15:59:38 UTC] create folder
+[13-Jun-2015 15:59:38 UTC] assets/jobs/547
+[13-Jun-2015 15:59:38 UTC] creating
+[13-Jun-2015 16:00:11 UTC] create folder
+[13-Jun-2015 16:00:11 UTC] assets/jobs/548
+[13-Jun-2015 16:00:11 UTC] creating
+[13-Jun-2015 16:00:46 UTC] create folder
+[13-Jun-2015 16:00:46 UTC] assets/jobs/549
+[13-Jun-2015 16:00:46 UTC] creating
+[13-Jun-2015 16:01:21 UTC] create folder
+[13-Jun-2015 16:01:21 UTC] assets/jobs/550
+[13-Jun-2015 16:01:21 UTC] creating
+[13-Jun-2015 16:01:53 UTC] create folder
+[13-Jun-2015 16:01:53 UTC] assets/jobs/551
+[13-Jun-2015 16:01:53 UTC] creating
+[13-Jun-2015 16:02:52 UTC] create folder
+[13-Jun-2015 16:02:52 UTC] assets/jobs/552
+[13-Jun-2015 16:02:52 UTC] creating
+[13-Jun-2015 16:05:46 UTC] create folder
+[13-Jun-2015 16:05:46 UTC] assets/jobs/553
+[13-Jun-2015 16:05:46 UTC] creating
+[13-Jun-2015 16:07:12 UTC] create folder
+[13-Jun-2015 16:07:12 UTC] assets/jobs/554
+[13-Jun-2015 16:07:12 UTC] creating
+[13-Jun-2015 16:08:42 UTC] create folder
+[13-Jun-2015 16:08:42 UTC] assets/jobs/555
+[13-Jun-2015 16:08:42 UTC] creating
+[13-Jun-2015 16:09:43 UTC] create folder
+[13-Jun-2015 16:09:43 UTC] assets/jobs/556
+[13-Jun-2015 16:09:43 UTC] creating
+[13-Jun-2015 16:51:31 UTC] 1
+[13-Jun-2015 16:52:15 UTC] 1
+[13-Jun-2015 16:53:35 UTC] 1
+[14-Jun-2015 17:43:43 UTC] create folder
+[14-Jun-2015 17:43:43 UTC] assets/jobs/557
+[14-Jun-2015 17:43:43 UTC] creating
+[14-Jun-2015 17:45:13 UTC] create folder
+[14-Jun-2015 17:45:13 UTC] assets/jobs/558
+[14-Jun-2015 17:45:13 UTC] creating
+[14-Jun-2015 17:45:48 UTC] create folder
+[14-Jun-2015 17:45:48 UTC] assets/jobs/559
+[14-Jun-2015 17:45:48 UTC] creating
+[14-Jun-2015 17:54:37 UTC] create folder
+[14-Jun-2015 17:54:37 UTC] assets/jobs/560
+[14-Jun-2015 17:54:37 UTC] creating
+[14-Jun-2015 17:55:15 UTC] create folder
+[14-Jun-2015 17:55:15 UTC] assets/jobs/561
+[14-Jun-2015 17:55:15 UTC] creating
+[14-Jun-2015 17:56:09 UTC] create folder
+[14-Jun-2015 17:56:09 UTC] assets/jobs/562
+[14-Jun-2015 17:56:09 UTC] creating
+[14-Jun-2015 17:57:09 UTC] create folder
+[14-Jun-2015 17:57:09 UTC] assets/jobs/563
+[14-Jun-2015 17:57:09 UTC] creating
+[14-Jun-2015 17:58:11 UTC] create folder
+[14-Jun-2015 17:58:11 UTC] assets/jobs/564
+[14-Jun-2015 17:58:11 UTC] creating
+[14-Jun-2015 17:59:07 UTC] create folder
+[14-Jun-2015 17:59:07 UTC] assets/jobs/565
+[14-Jun-2015 17:59:07 UTC] creating
+[14-Jun-2015 18:02:04 UTC] create folder
+[14-Jun-2015 18:02:04 UTC] assets/jobs/566
+[14-Jun-2015 18:02:04 UTC] creating
+[14-Jun-2015 18:02:43 UTC] create folder
+[14-Jun-2015 18:02:43 UTC] assets/jobs/567
+[14-Jun-2015 18:02:43 UTC] creating
+[14-Jun-2015 18:03:27 UTC] create folder
+[14-Jun-2015 18:03:27 UTC] assets/jobs/568
+[14-Jun-2015 18:03:27 UTC] creating
+[14-Jun-2015 18:05:05 UTC] create folder
+[14-Jun-2015 18:05:05 UTC] assets/jobs/569
+[14-Jun-2015 18:05:05 UTC] creating
+[14-Jun-2015 18:05:58 UTC] create folder
+[14-Jun-2015 18:05:58 UTC] assets/jobs/570
+[14-Jun-2015 18:05:58 UTC] creating
+[14-Jun-2015 18:07:07 UTC] create folder
+[14-Jun-2015 18:07:07 UTC] assets/jobs/571
+[14-Jun-2015 18:07:07 UTC] creating
+[14-Jun-2015 18:07:59 UTC] create folder
+[14-Jun-2015 18:07:59 UTC] assets/jobs/572
+[14-Jun-2015 18:07:59 UTC] creating
+[14-Jun-2015 18:09:11 UTC] create folder
+[14-Jun-2015 18:09:11 UTC] assets/jobs/573
+[14-Jun-2015 18:09:11 UTC] creating
+[14-Jun-2015 18:09:50 UTC] create folder
+[14-Jun-2015 18:09:50 UTC] assets/jobs/574
+[14-Jun-2015 18:09:50 UTC] creating
+[14-Jun-2015 18:10:30 UTC] create folder
+[14-Jun-2015 18:10:30 UTC] assets/jobs/575
+[14-Jun-2015 18:10:30 UTC] creating
+[14-Jun-2015 18:11:13 UTC] create folder
+[14-Jun-2015 18:11:13 UTC] assets/jobs/576
+[14-Jun-2015 18:11:13 UTC] creating
+[14-Jun-2015 18:13:08 UTC] create folder
+[14-Jun-2015 18:13:08 UTC] assets/jobs/577
+[14-Jun-2015 18:13:08 UTC] creating
+[14-Jun-2015 18:14:11 UTC] create folder
+[14-Jun-2015 18:14:11 UTC] assets/jobs/578
+[14-Jun-2015 18:14:11 UTC] creating
+[14-Jun-2015 18:15:10 UTC] create folder
+[14-Jun-2015 18:15:10 UTC] assets/jobs/579
+[14-Jun-2015 18:15:10 UTC] creating
+[14-Jun-2015 18:17:03 UTC] create folder
+[14-Jun-2015 18:17:03 UTC] assets/jobs/580
+[14-Jun-2015 18:17:03 UTC] creating
+[14-Jun-2015 18:17:45 UTC] create folder
+[14-Jun-2015 18:17:45 UTC] assets/jobs/581
+[14-Jun-2015 18:17:45 UTC] creating
+[14-Jun-2015 18:20:47 UTC] create folder
+[14-Jun-2015 18:20:47 UTC] assets/jobs/582
+[14-Jun-2015 18:20:47 UTC] creating
+[14-Jun-2015 18:23:57 UTC] create folder
+[14-Jun-2015 18:23:57 UTC] assets/jobs/583
+[14-Jun-2015 18:23:57 UTC] creating
+[14-Jun-2015 18:25:01 UTC] create folder
+[14-Jun-2015 18:25:01 UTC] assets/jobs/584
+[14-Jun-2015 18:25:01 UTC] creating
+[14-Jun-2015 21:01:41 UTC] fine
+[14-Jun-2015 21:07:07 UTC] create folder
+[14-Jun-2015 21:07:07 UTC] assets/jobs/585
+[14-Jun-2015 21:07:07 UTC] creating
+[14-Jun-2015 21:07:37 UTC] 1
+[14-Jun-2015 21:07:37 UTC] 3
+[14-Jun-2015 21:08:13 UTC] 1
+[14-Jun-2015 21:08:13 UTC] 3
+[14-Jun-2015 21:10:40 UTC] 1
+[14-Jun-2015 21:10:40 UTC] 3
+[14-Jun-2015 21:11:20 UTC] 1
+[14-Jun-2015 21:11:20 UTC] 3
+[14-Jun-2015 21:21:13 UTC] 2
+[14-Jun-2015 21:21:13 UTC] 3
+[14-Jun-2015 21:21:18 UTC] 2
+[14-Jun-2015 21:21:18 UTC] 3
+[14-Jun-2015 21:37:22 UTC] 2
+[14-Jun-2015 21:37:22 UTC] 3
+[14-Jun-2015 21:37:38 UTC] 2
+[14-Jun-2015 21:37:38 UTC] 3
+[14-Jun-2015 21:47:07 UTC] 2
+[14-Jun-2015 21:47:07 UTC] 3
+[14-Jun-2015 21:47:33 UTC] 2
+[14-Jun-2015 21:47:33 UTC] 3
+[14-Jun-2015 21:47:52 UTC] 2
+[14-Jun-2015 21:47:52 UTC] 3
+[14-Jun-2015 21:48:05 UTC] 2
+[14-Jun-2015 21:48:05 UTC] 3
+[14-Jun-2015 21:48:33 UTC] 2
+[14-Jun-2015 21:48:33 UTC] 3
+[14-Jun-2015 21:48:48 UTC] 2
+[14-Jun-2015 21:48:48 UTC] 3
+[14-Jun-2015 21:49:10 UTC] 2
+[14-Jun-2015 21:49:10 UTC] 3
+[14-Jun-2015 21:49:24 UTC] 2
+[14-Jun-2015 21:49:24 UTC] 3
+[15-Jun-2015 11:39:40 UTC] 1
+[15-Jun-2015 11:40:22 UTC] 1
+[15-Jun-2015 15:30:43 UTC] fine
+[17-Jun-2015 09:06:06 UTC] fine
+[17-Jun-2015 09:09:22 UTC] 1
+[17-Jun-2015 09:09:22 UTC] 3
+[17-Jun-2015 09:09:33 UTC] 1
+[17-Jun-2015 09:09:33 UTC] 3
+[17-Jun-2015 09:11:25 UTC] 1
+[17-Jun-2015 09:11:25 UTC] 2
+[17-Jun-2015 09:11:25 UTC] 3
+[17-Jun-2015 09:11:33 UTC] 1
+[17-Jun-2015 09:11:33 UTC] 2
+[17-Jun-2015 09:11:33 UTC] 3
+[17-Jun-2015 09:22:42 UTC] 1
+[17-Jun-2015 09:22:42 UTC] 3
+[17-Jun-2015 09:22:56 UTC] 1
+[17-Jun-2015 09:22:56 UTC] 3
+[17-Jun-2015 10:27:25 UTC] create folder
+[17-Jun-2015 10:27:25 UTC] assets/jobs/586
+[17-Jun-2015 10:27:25 UTC] creating
+[17-Jun-2015 10:36:42 UTC] create folder
+[17-Jun-2015 10:36:42 UTC] assets/jobs/587
+[17-Jun-2015 10:36:42 UTC] creating
+[17-Jun-2015 10:40:09 UTC] create folder
+[17-Jun-2015 10:40:09 UTC] assets/jobs/588
+[17-Jun-2015 10:40:09 UTC] creating
+[17-Jun-2015 10:43:09 UTC] create folder
+[17-Jun-2015 10:43:09 UTC] assets/jobs/589
+[17-Jun-2015 10:43:09 UTC] creating
+[17-Jun-2015 10:45:30 UTC] create folder
+[17-Jun-2015 10:45:30 UTC] assets/jobs/590
+[17-Jun-2015 10:45:30 UTC] creating
+[17-Jun-2015 10:48:04 UTC] create folder
+[17-Jun-2015 10:48:04 UTC] assets/jobs/591
+[17-Jun-2015 10:48:04 UTC] creating
+[17-Jun-2015 10:50:24 UTC] create folder
+[17-Jun-2015 10:50:24 UTC] assets/jobs/592
+[17-Jun-2015 10:50:24 UTC] creating
+[17-Jun-2015 11:50:36 UTC] fine
+[17-Jun-2015 12:49:07 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/echoriac/public_html/propertyground.com/member/application/libraries/Email_processor.php on line 119
+[17-Jun-2015 13:11:20 UTC] email startsss
+[17-Jun-2015 13:11:20 UTC] email sentss
+[17-Jun-2015 13:24:52 UTC] email startsss
+[17-Jun-2015 13:24:52 UTC] email sentss
+[17-Jun-2015 13:30:35 UTC] email startsss
+[17-Jun-2015 13:30:35 UTC] email sentss
+[17-Jun-2015 13:36:05 UTC] email startsss
+[17-Jun-2015 13:36:05 UTC] email sentss
+[17-Jun-2015 14:38:06 UTC] fine
+[17-Jun-2015 14:52:19 UTC] 2
+[17-Jun-2015 14:52:19 UTC] 3
+[17-Jun-2015 14:52:25 UTC] 2
+[17-Jun-2015 14:52:25 UTC] 3
+[17-Jun-2015 14:52:39 UTC] 2
+[17-Jun-2015 14:52:39 UTC] 3
+[17-Jun-2015 14:52:44 UTC] 2
+[17-Jun-2015 14:52:44 UTC] 3
+[17-Jun-2015 14:56:22 UTC] fine
+[17-Jun-2015 15:35:15 UTC] fine
+[17-Jun-2015 16:34:48 UTC] email startsss
+[17-Jun-2015 16:34:53 UTC] email sentss
+[17-Jun-2015 16:41:08 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/echoriac/public_html/propertyground.com/member/application/libraries/Email_processor.php on line 132
+[17-Jun-2015 16:41:33 UTC] email start smtp
+[17-Jun-2015 16:41:39 UTC] email sent smtp
+[17-Jun-2015 16:44:27 UTC] email start smtp
+[17-Jun-2015 16:44:28 UTC] email sent smtp
+[17-Jun-2015 16:47:24 UTC] email start smtp
+[17-Jun-2015 16:47:25 UTC] email sent smtp
+[17-Jun-2015 16:48:30 UTC] email start smtp
+[17-Jun-2015 16:48:31 UTC] email sent smtp
+[17-Jun-2015 16:50:32 UTC] email start smtp
+[17-Jun-2015 16:50:33 UTC] email sent smtp
+[17-Jun-2015 16:51:03 UTC] 2
+[17-Jun-2015 16:51:03 UTC] 3
+[17-Jun-2015 16:51:16 UTC] 2
+[17-Jun-2015 16:51:16 UTC] 3
+[17-Jun-2015 16:53:47 UTC] create folder
+[17-Jun-2015 16:53:47 UTC] assets/jobs/593
+[17-Jun-2015 16:53:47 UTC] creating
+[17-Jun-2015 17:09:41 UTC] email start smtp
+[17-Jun-2015 17:09:42 UTC] email sent smtp
+[17-Jun-2015 17:10:14 UTC] email start smtp
+[17-Jun-2015 17:10:15 UTC] email sent smtp
+[17-Jun-2015 17:36:20 UTC] sarangan12@gmail.com
+[17-Jun-2015 17:36:20 UTC] email start smtp
+[17-Jun-2015 17:36:21 UTC] email sent smtp
+[17-Jun-2015 17:38:27 UTC] rniranjan30@gmail.com
+[17-Jun-2015 17:38:27 UTC] email start smtp
+[17-Jun-2015 17:38:28 UTC] email sent smtp
+[17-Jun-2015 17:38:33 UTC] supp0rt24X7@gmail.com
+[17-Jun-2015 17:38:33 UTC] email start smtp
+[17-Jun-2015 17:38:33 UTC] email sent smtp
+[18-Jun-2015 09:44:49 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/echoriac/public_html/propertyground.com/member/application/controllers/Jobs.php on line 467
+[18-Jun-2015 14:28:27 UTC] fine
+[18-Jun-2015 14:55:18 UTC] fine
+[18-Jun-2015 14:56:45 UTC] fine
+[18-Jun-2015 14:57:54 UTC] fine
+[18-Jun-2015 14:58:02 UTC] fine
+[18-Jun-2015 15:20:25 UTC] fine
+[19-Jun-2015 09:49:15 UTC] fine
+[19-Jun-2015 10:04:05 UTC] fine
+[19-Jun-2015 10:04:25 UTC] fine
+[19-Jun-2015 10:04:41 UTC] fine
+[19-Jun-2015 12:09:27 UTC] callimg
+[19-Jun-2015 12:09:27 UTC] staring
+[19-Jun-2015 12:09:27 UTC] transaction_subject=1
+[19-Jun-2015 12:09:27 UTC] txn_type=web_accept
+[19-Jun-2015 12:09:27 UTC] payment_date=05%3A09%3A13+Jun+19%2C+2015+PDT
+[19-Jun-2015 12:09:27 UTC] last_name=Buyer
+[19-Jun-2015 12:09:27 UTC] residence_country=SG
+[19-Jun-2015 12:09:27 UTC] pending_reason=unilateral
+[19-Jun-2015 12:09:27 UTC] item_name=Floor+Plan
+[19-Jun-2015 12:09:27 UTC] payment_gross=
+[19-Jun-2015 12:09:27 UTC] mc_currency=GBP
+[19-Jun-2015 12:09:27 UTC] business=sarangan12%40gmail.com
+[19-Jun-2015 12:09:27 UTC] payment_type=instant
+[19-Jun-2015 12:09:27 UTC] protection_eligibility=Ineligible
+[19-Jun-2015 12:09:27 UTC] verify_sign=A21kmBLyRcQpDSjYvmswlm3ckjahAvcNVsN3FhjJsP8SUad4QMMgolfT
+[19-Jun-2015 12:09:27 UTC] payer_status=verified
+[19-Jun-2015 12:09:27 UTC] test_ipn=1
+[19-Jun-2015 12:09:27 UTC] tax=0.00
+[19-Jun-2015 12:09:27 UTC] payer_email=sarangan12-buyer%40gmail.com
+[19-Jun-2015 12:09:27 UTC] txn_id=20J92136EM2991237
+[19-Jun-2015 12:09:27 UTC] quantity=1
+[19-Jun-2015 12:09:27 UTC] receiver_email=sarangan12%40gmail.com
+[19-Jun-2015 12:09:27 UTC] first_name=Test
+[19-Jun-2015 12:09:27 UTC] payer_id=PFYARCS66XFZQ
+[19-Jun-2015 12:09:27 UTC] item_number=10614
+[19-Jun-2015 12:09:27 UTC] handling_amount=0.00
+[19-Jun-2015 12:09:27 UTC] payment_status=Pending
+[19-Jun-2015 12:09:27 UTC] shipping=0.00
+[19-Jun-2015 12:09:27 UTC] mc_gross=90.00
+[19-Jun-2015 12:09:27 UTC] custom=1
+[19-Jun-2015 12:09:27 UTC] charset=windows-1252
+[19-Jun-2015 12:09:27 UTC] notify_version=3.8
+[19-Jun-2015 12:09:27 UTC] ipn_track_id=b3be4de7a01b0
+[19-Jun-2015 12:09:27 UTC] <pre>Array
+(
+    [transaction_subject] => 1
+    [txn_type] => web_accept
+    [payment_date] => 05:09:13 Jun 19, 2015 PDT
+    [last_name] => Buyer
+    [residence_country] => SG
+    [pending_reason] => unilateral
+    [item_name] => Floor Plan
+    [payment_gross] => 
+    [mc_currency] => GBP
+    [business] => sarangan12@gmail.com
+    [payment_type] => instant
+    [protection_eligibility] => Ineligible
+    [verify_sign] => A21kmBLyRcQpDSjYvmswlm3ckjahAvcNVsN3FhjJsP8SUad4QMMgolfT
+    [payer_status] => verified
+    [test_ipn] => 1
+    [tax] => 0.00
+    [payer_email] => sarangan12-buyer@gmail.com
+    [txn_id] => 20J92136EM2991237
+    [quantity] => 1
+    [receiver_email] => sarangan12@gmail.com
+    [first_name] => Test
+    [payer_id] => PFYARCS66XFZQ
+    [item_number] => 10614
+    [handling_amount] => 0.00
+    [payment_status] => Pending
+    [shipping] => 0.00
+    [mc_gross] => 90.00
+    [custom] => 1
+    [charset] => windows-1252
+    [notify_version] => 3.8
+    [ipn_track_id] => b3be4de7a01b0
+)
+</pre>
+[19-Jun-2015 12:09:28 UTC] <pre>Array
+(
+    [transaction_subject] => 1
+    [txn_type] => web_accept
+    [payment_date] => 05:09:13 Jun 19, 2015 PDT
+    [last_name] => Buyer
+    [residence_country] => SG
+    [pending_reason] => unilateral
+    [item_name] => Floor Plan
+    [payment_gross] => 
+    [mc_currency] => GBP
+    [business] => sarangan12@gmail.com
+    [payment_type] => instant
+    [protection_eligibility] => Ineligible
+    [verify_sign] => A21kmBLyRcQpDSjYvmswlm3ckjahAvcNVsN3FhjJsP8SUad4QMMgolfT
+    [payer_status] => verified
+    [test_ipn] => 1
+    [tax] => 0.00
+    [payer_email] => sarangan12-buyer@gmail.com
+    [txn_id] => 20J92136EM2991237
+    [quantity] => 1
+    [receiver_email] => sarangan12@gmail.com
+    [first_name] => Test
+    [payer_id] => PFYARCS66XFZQ
+    [item_number] => 10614
+    [handling_amount] => 0.00
+    [payment_status] => Pending
+    [shipping] => 0.00
+    [mc_gross] => 90.00
+    [custom] => 1
+    [charset] => windows-1252
+    [notify_version] => 3.8
+    [ipn_track_id] => b3be4de7a01b0
+)
+</pre>
+[19-Jun-2015 12:09:28 UTC] fucking succeess
